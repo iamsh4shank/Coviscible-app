@@ -1,7 +1,10 @@
 # This is a generated file; do not edit or check into version control.
-camera=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.8.1/
+camera=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.7.0+4/
 catcher=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/catcher-0.4.2/
 device_info=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-1.0.0/
+firebase_core=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.7.0/
+firebase_core_web=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+3/
+firebase_database=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.0.0/
 flutter_mailer=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mailer-1.0.1/
 fluttertoast=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/
 geocoding=/home/shashank/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-1.0.5/
